@@ -1,0 +1,5352 @@
+[
+  {
+    "id": "men-01",
+    "name": "Veloura Classic Supima Cotton Crewneck T-Shirt",
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "description": "Crafted from 100% long-staple Supima cotton for exceptional softness and enduring structure.",
+    "price": 999,
+    "originalPrice": 1499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Black",
+        "hex": "#1C1C1C"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1B2A4A"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 45,
+    "rating": 4.8,
+    "reviewCount": 142,
+    "isBestSeller": true,
+    "tags": [
+      "bestseller",
+      "everyday",
+      "organic"
+    ],
+    "fabric": "100% Supima Cotton",
+    "care": "Machine wash cold, tumble dry low",
+    "completeTheLookIds": [
+      "men-09",
+      "men-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-02",
+    "name": "Heavyweight Minimalist Oversized Tee",
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "description": "240 GSM drop-shoulder streetwear tee tailored with ribbed collar and drop-fade wash.",
+    "price": 1199,
+    "originalPrice": 1799,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Oatmeal Beige",
+        "hex": "#D8CBB9"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#333333"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.6,
+    "reviewCount": 88,
+    "tags": [
+      "streetwear",
+      "trending"
+    ],
+    "fabric": "100% Combed Cotton (240 GSM)",
+    "care": "Gentle machine wash inside out",
+    "completeTheLookIds": [
+      "men-10",
+      "men-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-03",
+    "name": "Slub Textured Heather Henley T-Shirt",
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "description": "Three-button placket henley in breathable slub yarn with subtle texture.",
+    "price": 1049,
+    "originalPrice": 1599,
+    "discountPercent": 34,
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Heather Grey",
+        "hex": "#9E9E9E"
+      },
+      {
+        "name": "Olive Green",
+        "hex": "#556B2F"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.7,
+    "reviewCount": 64,
+    "tags": [
+      "casual",
+      "summer"
+    ],
+    "fabric": "95% Cotton, 5% Elastane",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "men-09",
+      "men-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-04",
+    "name": "Vintage Garment-Dyed Pocket Tee",
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "description": "Stone-washed crewneck with chest pocket and relaxed heritage cut.",
+    "price": 899,
+    "originalPrice": 1299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Washed Indigo",
+        "hex": "#3F51B5"
+      },
+      {
+        "name": "Rust Orange",
+        "hex": "#D84315"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 36,
+    "rating": 4.5,
+    "reviewCount": 42,
+    "tags": [
+      "vintage",
+      "casual"
+    ],
+    "fabric": "100% Organic Cotton",
+    "care": "Cold water wash",
+    "completeTheLookIds": [
+      "men-11",
+      "men-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-05",
+    "name": "Oxford Pure Linen Casual Button-Down Shirt",
+    "category": "men",
+    "subcategory": "Shirts",
+    "description": "French flax linen shirt with buttoned cuffs and curved hem. Breathable luxury.",
+    "price": 2199,
+    "originalPrice": 3299,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue",
+        "hex": "#87CEEB"
+      },
+      {
+        "name": "Pure White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 24,
+    "rating": 4.9,
+    "reviewCount": 110,
+    "isFeatured": true,
+    "tags": [
+      "premium",
+      "linen",
+      "formal"
+    ],
+    "fabric": "100% French Flax Linen",
+    "care": "Hand wash or dry clean",
+    "completeTheLookIds": [
+      "men-11",
+      "men-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-06",
+    "name": "Modern Poplin Spread Collar Formal Shirt",
+    "category": "men",
+    "subcategory": "Shirts",
+    "description": "Crisp combed cotton poplin designed for corporate sharp looks with easy-iron finish.",
+    "price": 1799,
+    "originalPrice": 2499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "42",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "Crisp White",
+        "hex": "#FDFDFD"
+      },
+      {
+        "name": "Light Blue",
+        "hex": "#D0E1F9"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 32,
+    "rating": 4.8,
+    "reviewCount": 95,
+    "tags": [
+      "formal",
+      "office"
+    ],
+    "fabric": "100% Giza Cotton",
+    "care": "Machine wash warm, warm iron",
+    "completeTheLookIds": [
+      "men-12",
+      "men-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-07",
+    "name": "Indigo Washed Denim Overshirt",
+    "category": "men",
+    "subcategory": "Shirts",
+    "description": "Medium-weight indigo twill overshirt with twin chest flap pockets and antique brass buttons.",
+    "price": 2399,
+    "originalPrice": 3499,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1589310243389-96a5483213a8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1589310243389-96a5483213a8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Dark Indigo",
+        "hex": "#1A237E"
+      },
+      {
+        "name": "Mid Stonewash",
+        "hex": "#42A5F5"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.7,
+    "reviewCount": 52,
+    "tags": [
+      "denim",
+      "layering"
+    ],
+    "fabric": "100% Cotton Denim (8.5 oz)",
+    "care": "Wash separately in cold water",
+    "completeTheLookIds": [
+      "men-01",
+      "men-11"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-08",
+    "name": "Lumberjack Brushed Flannel Plaid Shirt",
+    "category": "men",
+    "subcategory": "Shirts",
+    "description": "Heavyweight brushed twill flannel shirt with traditional red and black check pattern.",
+    "price": 1899,
+    "originalPrice": 2699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Crimson Buffalo",
+        "hex": "#880E4F"
+      },
+      {
+        "name": "Forest Navy",
+        "hex": "#1B5E20"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 22,
+    "rating": 4.6,
+    "reviewCount": 78,
+    "tags": [
+      "winter",
+      "flannel",
+      "casual"
+    ],
+    "fabric": "100% Brushed Cotton Flannel",
+    "care": "Gentle cycle, hang dry",
+    "completeTheLookIds": [
+      "men-09",
+      "men-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-09",
+    "name": "Selvedge Slim Fit Dark Indigo Jeans",
+    "category": "men",
+    "subcategory": "Jeans",
+    "description": "13.5 oz raw Japanese selvedge denim with clean taper from knee to hem.",
+    "price": 2799,
+    "originalPrice": 3999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Raw Indigo",
+        "hex": "#0D1B2A"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.9,
+    "reviewCount": 132,
+    "isBestSeller": true,
+    "tags": [
+      "selvedge",
+      "denim",
+      "bestseller"
+    ],
+    "fabric": "99% Cotton, 1% Spandex",
+    "care": "Cold wash inside out",
+    "completeTheLookIds": [
+      "men-01",
+      "men-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-10",
+    "name": "Vintage Straight Leg Faded Lightwash Jeans",
+    "category": "men",
+    "subcategory": "Jeans",
+    "description": "90s skater-inspired straight relaxed cut in authentic bleached denim.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Ice Blue",
+        "hex": "#B0C4DE"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 20,
+    "rating": 4.7,
+    "reviewCount": 65,
+    "tags": [
+      "retro",
+      "streetwear"
+    ],
+    "fabric": "100% Rigid Denim Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "men-02",
+      "men-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-11",
+    "name": "Stay-Black Stretch Tapered Fit Jeans",
+    "category": "men",
+    "subcategory": "Jeans",
+    "description": "Engineered reactive dye fabric resistant to color fading through 40+ laundry cycles.",
+    "price": 2299,
+    "originalPrice": 2999,
+    "discountPercent": 23,
+    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "colors": [
+      {
+        "name": "Jet Black",
+        "hex": "#0A0A0A"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.8,
+    "reviewCount": 98,
+    "tags": [
+      "essential",
+      "black"
+    ],
+    "fabric": "98% Cotton, 2% Elastane",
+    "care": "Wash inside out with dark colors",
+    "completeTheLookIds": [
+      "men-05",
+      "men-18"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-12",
+    "name": "Pleated Tailored Trousers in Wool-Blend",
+    "category": "men",
+    "subcategory": "Trousers",
+    "description": "Double front pleats, adjustable waist tabs and clean tapered cuffs.",
+    "price": 2699,
+    "originalPrice": 3899,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Heather Grey",
+        "hex": "#708090"
+      },
+      {
+        "name": "Dark Navy",
+        "hex": "#0B132B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 19,
+    "rating": 4.8,
+    "reviewCount": 44,
+    "tags": [
+      "formal",
+      "pleated"
+    ],
+    "fabric": "65% Polyester, 35% Rayon Wool Feel",
+    "care": "Dry clean recommended",
+    "completeTheLookIds": [
+      "men-06",
+      "men-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-13",
+    "name": "French Terry Relaxed Pullover Hoodie",
+    "category": "men",
+    "subcategory": "Hoodies",
+    "description": "380 GSM plush French terry hoodie with kangaroo pouch and double-lined hood.",
+    "price": 2199,
+    "originalPrice": 3199,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Dusty Taupe",
+        "hex": "#8D7B68"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#111111"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 35,
+    "rating": 4.8,
+    "reviewCount": 115,
+    "isNewArrival": true,
+    "tags": [
+      "hoodie",
+      "comfort",
+      "streetwear"
+    ],
+    "fabric": "100% French Terry Cotton",
+    "care": "Machine wash cold, flat dry",
+    "completeTheLookIds": [
+      "men-09",
+      "men-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-14",
+    "name": "Fleece Lined Minimal Zip-Up Hoodie",
+    "category": "men",
+    "subcategory": "Hoodies",
+    "description": "YKK metal zipper front with ergonomic raglan sleeves and soft brushed interior.",
+    "price": 2399,
+    "originalPrice": 3499,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal Grey",
+        "hex": "#37474F"
+      },
+      {
+        "name": "Forest Pine",
+        "hex": "#2E7D32"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.7,
+    "reviewCount": 84,
+    "tags": [
+      "hoodie",
+      "active"
+    ],
+    "fabric": "80% Cotton, 20% Polyester",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "men-01",
+      "men-10"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-15",
+    "name": "Suede Finish Trucker Jacket",
+    "category": "men",
+    "subcategory": "Jackets",
+    "description": "Faux-suede classic trucker silhouette with quilted lining and antique silver buttons.",
+    "price": 3799,
+    "originalPrice": 5499,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Cognac Brown",
+        "hex": "#8D5B4C"
+      },
+      {
+        "name": "Midnight Tan",
+        "hex": "#D2B48C"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 15,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "isFeatured": true,
+    "tags": [
+      "premium",
+      "jacket"
+    ],
+    "fabric": "Premium Vegan Suede",
+    "care": "Specialist dry clean only",
+    "completeTheLookIds": [
+      "men-01",
+      "men-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-16",
+    "name": "Water-Repellent Puffer Down Jacket",
+    "category": "men",
+    "subcategory": "Jackets",
+    "description": "Ultralight thermal quilted down jacket with packable storage pouch and storm collar.",
+    "price": 4499,
+    "originalPrice": 6999,
+    "discountPercent": 35,
+    "image": "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#1E1E1E"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#4A6572"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 20,
+    "rating": 4.8,
+    "reviewCount": 90,
+    "tags": [
+      "winter",
+      "outerwear"
+    ],
+    "fabric": "Nylon Ripstop with Micro-Down Fill",
+    "care": "Gentle machine wash",
+    "completeTheLookIds": [
+      "men-13",
+      "men-11"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-17",
+    "name": "Heritage Structured Wool Blazer",
+    "category": "men",
+    "subcategory": "Jackets",
+    "description": "Single-breasted notched lapel sports jacket tailored for formal evenings or smart casual dining.",
+    "price": 4999,
+    "originalPrice": 7999,
+    "discountPercent": 37,
+    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "38R",
+      "40R",
+      "42R",
+      "44R"
+    ],
+    "colors": [
+      {
+        "name": "Navy Tweed",
+        "hex": "#1B263B"
+      },
+      {
+        "name": "Muted Brown",
+        "hex": "#4A3B32"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 12,
+    "rating": 4.9,
+    "reviewCount": 58,
+    "isFeatured": true,
+    "tags": [
+      "luxury",
+      "formal",
+      "blazer"
+    ],
+    "fabric": "70% Wool, 30% Silk-Touch Polyester",
+    "care": "Dry clean only",
+    "completeTheLookIds": [
+      "men-06",
+      "men-12"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-18",
+    "name": "Mercerised Pique Cotton Polo Shirt",
+    "category": "men",
+    "subcategory": "Polos",
+    "description": "Fine honeycomb knit with anti-curl structured rib collar and mother-of-pearl buttons.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1625910513413-5bc50b3e8554?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1625910513413-5bc50b3e8554?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Deep Burgundy",
+        "hex": "#4A0E17"
+      },
+      {
+        "name": "White Sand",
+        "hex": "#F5F5F0"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 34,
+    "rating": 4.7,
+    "reviewCount": 76,
+    "tags": [
+      "polo",
+      "smart-casual"
+    ],
+    "fabric": "100% Mercerised Cotton Pique",
+    "care": "Machine wash cool, flat dry",
+    "completeTheLookIds": [
+      "men-12",
+      "men-19"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-19",
+    "name": "Slim Fit Stretch Chino Trousers",
+    "category": "men",
+    "subcategory": "Trousers",
+    "description": "Garment washed cotton twill chinos tailored with modern taper and interior coin pocket.",
+    "price": 1999,
+    "originalPrice": 2899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Khaki Tan",
+        "hex": "#C3B091"
+      },
+      {
+        "name": "Olive Drab",
+        "hex": "#556B2F"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 42,
+    "rating": 4.7,
+    "reviewCount": 104,
+    "tags": [
+      "chinos",
+      "office",
+      "smart-casual"
+    ],
+    "fabric": "98% Cotton, 2% Elastane",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "men-05",
+      "men-18"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-20",
+    "name": "Textured Waffle Knit Long Sleeve Tee",
+    "category": "men",
+    "subcategory": "Casual Wear",
+    "description": "Thermal waffle honeycomb knit with crew collar and elastane cuffs for comfortable layering.",
+    "price": 1299,
+    "originalPrice": 1899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Oatmeal",
+        "hex": "#E6D7C3"
+      },
+      {
+        "name": "Washed Moss",
+        "hex": "#5E7153"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 26,
+    "rating": 4.6,
+    "reviewCount": 48,
+    "tags": [
+      "layering",
+      "casual"
+    ],
+    "fabric": "100% Breathable Cotton Waffle",
+    "care": "Gentle cycle wash",
+    "completeTheLookIds": [
+      "men-09",
+      "men-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-21",
+    "name": "Relaxed Cargo Utility Pants with Cuffs",
+    "category": "men",
+    "subcategory": "Trousers",
+    "description": "Heavy cotton canvas utility trousers with 6 functional bellows pockets and drawstring ankle cuffs.",
+    "price": 2399,
+    "originalPrice": 3499,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "colors": [
+      {
+        "name": "Army Olive",
+        "hex": "#4B5320"
+      },
+      {
+        "name": "Blackened Ash",
+        "hex": "#212121"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.7,
+    "reviewCount": 82,
+    "tags": [
+      "streetwear",
+      "cargo"
+    ],
+    "fabric": "100% Heavy Duty Cotton Twill",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "men-02",
+      "men-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-22",
+    "name": "Resort Camp Collar Floral Print Shirt",
+    "category": "men",
+    "subcategory": "Shirts",
+    "description": "Silky smooth viscose rayon vacation shirt with relaxed Cuban open collar.",
+    "price": 1599,
+    "originalPrice": 2299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Tropical Navy",
+        "hex": "#1C3144"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.8,
+    "reviewCount": 69,
+    "tags": [
+      "vacation",
+      "summer"
+    ],
+    "fabric": "100% Eco-Vero Viscose",
+    "care": "Cold delicate wash",
+    "completeTheLookIds": [
+      "men-10",
+      "men-25"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-23",
+    "name": "Organic Cotton Striped Breton Tee",
+    "category": "men",
+    "subcategory": "T-Shirts",
+    "description": "Nautical-inspired horizontal striped tee with boatneck trim and reinforced side vents.",
+    "price": 1099,
+    "originalPrice": 1599,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527719327859-c6ce80353573?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Navy/White",
+        "hex": "#0B2545"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 33,
+    "rating": 4.6,
+    "reviewCount": 51,
+    "tags": [
+      "nautical",
+      "stripes"
+    ],
+    "fabric": "100% Ringspun Cotton",
+    "care": "Machine wash cold with like colors",
+    "completeTheLookIds": [
+      "men-09",
+      "men-19"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-24",
+    "name": "Minimalist Windbreaker Coach Jacket",
+    "category": "men",
+    "subcategory": "Jackets",
+    "description": "Water-resistant nylon taffeta shell with snap closure and drawcord cinch hem.",
+    "price": 2699,
+    "originalPrice": 3899,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Deep Sage",
+        "hex": "#4A5844"
+      },
+      {
+        "name": "Black",
+        "hex": "#000000"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 21,
+    "rating": 4.7,
+    "reviewCount": 37,
+    "tags": [
+      "lightweight",
+      "streetwear"
+    ],
+    "fabric": "100% Water-Resistant Polyester",
+    "care": "Wipe clean or cold wash",
+    "completeTheLookIds": [
+      "men-01",
+      "men-21"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-25",
+    "name": "Tailored Linen-Blend Bermuda Shorts",
+    "category": "men",
+    "subcategory": "Casual Wear",
+    "description": "7-inch inseam summer shorts featuring elasticated waistband with interior drawstring.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Stone Sand",
+        "hex": "#D6C7B2"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1C2541"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 35,
+    "rating": 4.7,
+    "reviewCount": 46,
+    "tags": [
+      "summer",
+      "shorts"
+    ],
+    "fabric": "55% Linen, 45% Cotton",
+    "care": "Machine wash cold, air dry",
+    "completeTheLookIds": [
+      "men-18",
+      "men-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-26",
+    "name": "Cable Knit Shawl Collar Cardigan",
+    "category": "men",
+    "subcategory": "Casual Wear",
+    "description": "Cozy fisherman cable textured cardigan with faux horn buttons and ribbed trim.",
+    "price": 3299,
+    "originalPrice": 4799,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Ivory Cream",
+        "hex": "#FFFDD0"
+      },
+      {
+        "name": "Dark Heather",
+        "hex": "#4A4A4A"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 17,
+    "rating": 4.9,
+    "reviewCount": 83,
+    "tags": [
+      "knitwear",
+      "autumn"
+    ],
+    "fabric": "100% Merino Wool Feel Acrylic Blend",
+    "care": "Hand wash flat dry",
+    "completeTheLookIds": [
+      "men-05",
+      "men-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-27",
+    "name": "Tonal Rib Knit Crewneck Sweater",
+    "category": "men",
+    "subcategory": "Casual Wear",
+    "description": "Fine-gauge lightweight knit sweater designed for effortless business-casual layering.",
+    "price": 1899,
+    "originalPrice": 2799,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Camel Tan",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#2B2B2B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 24,
+    "rating": 4.8,
+    "reviewCount": 57,
+    "tags": [
+      "sweater",
+      "layering"
+    ],
+    "fabric": "60% Cotton, 40% Modal",
+    "care": "Machine wash cold, gentle cycle",
+    "completeTheLookIds": [
+      "men-06",
+      "men-12"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-28",
+    "name": "Textured Jacquard Zip Polo Shirt",
+    "category": "men",
+    "subcategory": "Polos",
+    "description": "Sophisticated geometric knit polo with polished silver quarter-zip closure.",
+    "price": 1599,
+    "originalPrice": 2299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Espresso Brown",
+        "hex": "#3E2723"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#FAFAFA"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 22,
+    "rating": 4.8,
+    "reviewCount": 40,
+    "isNewArrival": true,
+    "tags": [
+      "polo",
+      "trending"
+    ],
+    "fabric": "85% Cotton, 15% Linen Jacquard",
+    "care": "Hand wash cold",
+    "completeTheLookIds": [
+      "men-12",
+      "men-19"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-29",
+    "name": "Raw Hem Denim Utility Overshirt Jacket",
+    "category": "men",
+    "subcategory": "Jackets",
+    "description": "Rugged heavyweight denim worker jacket with copper hardware and oversized welt pockets.",
+    "price": 2999,
+    "originalPrice": 4299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Washed Black",
+        "hex": "#262626"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 16,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "tags": [
+      "denim",
+      "jacket"
+    ],
+    "fabric": "100% BCI Cotton Denim",
+    "care": "Machine wash cold inside out",
+    "completeTheLookIds": [
+      "men-01",
+      "men-11"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "men-30",
+    "name": "Comfort Tapered Drawstring Lounge Joggers",
+    "category": "men",
+    "subcategory": "Casual Wear",
+    "description": "Super-soft combed cotton fleece sweatpants with zip security pocket and thick rib cuffs.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Marl Grey",
+        "hex": "#9E9E9E"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 50,
+    "rating": 4.8,
+    "reviewCount": 120,
+    "tags": [
+      "loungewear",
+      "bestseller"
+    ],
+    "fabric": "85% Cotton, 15% Polyester Fleece",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "men-02",
+      "men-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-01",
+    "name": "Tiered Linen Midi Sun Dress",
+    "category": "women",
+    "subcategory": "Dresses",
+    "description": "Flattering A-line tiered midi dress with smocked bodice, adjustable tie straps, and breezy cotton-linen drape.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Sage Green",
+        "hex": "#87A96B"
+      },
+      {
+        "name": "White Clay",
+        "hex": "#F4F1EA"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 32,
+    "rating": 4.9,
+    "reviewCount": 168,
+    "isBestSeller": true,
+    "tags": [
+      "bestseller",
+      "summer",
+      "linen"
+    ],
+    "fabric": "70% Cotton, 30% Linen",
+    "care": "Hand wash or delicate cycle",
+    "completeTheLookIds": [
+      "women-13",
+      "women-21"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-02",
+    "name": "Botanical Floral Wrap Maxi Dress",
+    "category": "women",
+    "subcategory": "Dresses",
+    "description": "V-neck true wrap dress with ruffle flutter sleeves and high-low ruffle hemline in lightweight chiffon.",
+    "price": 2899,
+    "originalPrice": 3999,
+    "discountPercent": 27,
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Floral Rose",
+        "hex": "#D87093"
+      },
+      {
+        "name": "Midnight Navy",
+        "hex": "#1B263B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 20,
+    "rating": 4.8,
+    "reviewCount": 94,
+    "tags": [
+      "evening",
+      "floral"
+    ],
+    "fabric": "100% Georgette with Viscose Lining",
+    "care": "Dry clean recommended",
+    "completeTheLookIds": [
+      "women-14",
+      "women-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-03",
+    "name": "Minimalist Satin Bias Cut Slip Dress",
+    "category": "women",
+    "subcategory": "Dresses",
+    "description": "Glamorous 90s-inspired fluid satin slip dress that contours seamlessly with cowl neckline.",
+    "price": 2299,
+    "originalPrice": 3299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Champagne Gold",
+        "hex": "#F7E7CE"
+      },
+      {
+        "name": "Emerald",
+        "hex": "#004B49"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.9,
+    "reviewCount": 112,
+    "isFeatured": true,
+    "tags": [
+      "party",
+      "satin",
+      "cocktail"
+    ],
+    "fabric": "Silky Polyester Satin",
+    "care": "Hand wash cold, hang dry",
+    "completeTheLookIds": [
+      "women-15",
+      "women-25"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-04",
+    "name": "Cotton Broderie Anglaise Shirred Dress",
+    "category": "women",
+    "subcategory": "Dresses",
+    "description": "Delicate eyelet embroidered cotton dress with puff sleeves and scalloped sweetheart hemline.",
+    "price": 2699,
+    "originalPrice": 3899,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Optic White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Pastel Lilac",
+        "hex": "#C8A2C8"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 26,
+    "rating": 4.7,
+    "reviewCount": 63,
+    "tags": [
+      "embroidery",
+      "summer"
+    ],
+    "fabric": "100% Broderie Cotton",
+    "care": "Machine wash delicate",
+    "completeTheLookIds": [
+      "women-13",
+      "women-18"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-05",
+    "name": "Ribbed Knit Bodycon Midi Dress",
+    "category": "women",
+    "subcategory": "Dresses",
+    "description": "Sculpting high-stretch ribbed knit dress with square neckline and side slit.",
+    "price": 1999,
+    "originalPrice": 2899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Mocha Brown",
+        "hex": "#6F4E37"
+      },
+      {
+        "name": "Black",
+        "hex": "#111111"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 29,
+    "rating": 4.8,
+    "reviewCount": 75,
+    "tags": [
+      "bodycon",
+      "knit"
+    ],
+    "fabric": "92% Rayon, 8% Spandex",
+    "care": "Machine wash cool, dry flat",
+    "completeTheLookIds": [
+      "women-14",
+      "women-16"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-06",
+    "name": "Puff-Sleeve Linen Peplum Blouse",
+    "category": "women",
+    "subcategory": "Tops",
+    "description": "Feminine squared neckline blouse featuring voluminous puff sleeves and flattering peplum flare.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1534126511673-b6899657816a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1534126511673-b6899657816a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Ivory",
+        "hex": "#FFFFF0"
+      },
+      {
+        "name": "Butter Yellow",
+        "hex": "#FFF275"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 34,
+    "rating": 4.7,
+    "reviewCount": 82,
+    "tags": [
+      "linen",
+      "blouse"
+    ],
+    "fabric": "60% Linen, 40% Cotton",
+    "care": "Gentle cycle, low iron",
+    "completeTheLookIds": [
+      "women-09",
+      "women-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-07",
+    "name": "Silk Crepe Bow-Tie Collar Shirt",
+    "category": "women",
+    "subcategory": "Tops",
+    "description": "Elevated luxury crepe blouse with draped neck scarf that ties into a sophisticated pussy-bow.",
+    "price": 1899,
+    "originalPrice": 2699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1594223274512-ad4803739b7c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Blush Pink",
+        "hex": "#FFB6C1"
+      },
+      {
+        "name": "Snow White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 21,
+    "rating": 4.9,
+    "reviewCount": 58,
+    "isFeatured": true,
+    "tags": [
+      "office",
+      "silk-touch",
+      "formal"
+    ],
+    "fabric": "Silky Crepe De Chine",
+    "care": "Dry clean or cold hand wash",
+    "completeTheLookIds": [
+      "women-11",
+      "women-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-08",
+    "name": "Boho Embroidered Cotton Tunic Top",
+    "category": "women",
+    "subcategory": "Tops",
+    "description": "Relaxed bohemian smock top with intricate neckline embroidery and tassel drawstring ties.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Teal Blue",
+        "hex": "#008080"
+      },
+      {
+        "name": "Coral",
+        "hex": "#FF7F50"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.6,
+    "reviewCount": 47,
+    "tags": [
+      "boho",
+      "embroidered"
+    ],
+    "fabric": "100% Slub Cotton",
+    "care": "Hand wash cold",
+    "completeTheLookIds": [
+      "women-09",
+      "women-18"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-09",
+    "name": "High-Rise Wide Leg Palazzo Jeans",
+    "category": "women",
+    "subcategory": "Jeans",
+    "description": "Sculpted high-rise waist with fluid wide leg drape crafted in vintage wash comfort stretch denim.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Blue",
+        "hex": "#6C8EA4"
+      },
+      {
+        "name": "Ecru Off-White",
+        "hex": "#FDFBF7"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 36,
+    "rating": 4.8,
+    "reviewCount": 140,
+    "isBestSeller": true,
+    "tags": [
+      "wide-leg",
+      "denim",
+      "trending"
+    ],
+    "fabric": "99% Cotton, 1% Lycra",
+    "care": "Machine wash inside out",
+    "completeTheLookIds": [
+      "women-06",
+      "women-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-10",
+    "name": "Sculpt Skinny High-Waisted Ankle Jeans",
+    "category": "women",
+    "subcategory": "Jeans",
+    "description": "Ultra-stretch recovery denim that contours hips and thighs with gap-proof contoured waistband.",
+    "price": 2199,
+    "originalPrice": 2999,
+    "discountPercent": 26,
+    "image": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      {
+        "name": "Deep Midnight Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Dark Indigo",
+        "hex": "#1C2951"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.7,
+    "reviewCount": 109,
+    "tags": [
+      "skinny",
+      "comfort-stretch"
+    ],
+    "fabric": "93% Cotton, 5% Poly, 2% Elastane",
+    "care": "Machine wash cold with like colors",
+    "completeTheLookIds": [
+      "women-07",
+      "women-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-11",
+    "name": "Anarkali Chanderi Silk Kurti with Dupatta",
+    "category": "women",
+    "subcategory": "Kurtis",
+    "description": "Regal flare Anarkali flared kurti with zari thread embroidery, gota patti lace border and organza dupatta.",
+    "price": 3499,
+    "originalPrice": 4999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "Royal Mustard",
+        "hex": "#E1AD01"
+      },
+      {
+        "name": "Maroon Ruby",
+        "hex": "#800020"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 15,
+    "rating": 4.9,
+    "reviewCount": 92,
+    "isFeatured": true,
+    "tags": [
+      "festive",
+      "traditional",
+      "kurti"
+    ],
+    "fabric": "Chanderi Silk with Cotton Inner",
+    "care": "Dry clean only",
+    "completeTheLookIds": [
+      "women-17",
+      "women-24"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-12",
+    "name": "Handblock Printed Cotton Straight Kurti",
+    "category": "women",
+    "subcategory": "Kurtis",
+    "description": "Pure mulmul cotton straight-cut kurti with Jaipur indigo block print, mandarin collar, and side slits.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Indigo Dabu",
+        "hex": "#2A4D69"
+      },
+      {
+        "name": "Bagru Red",
+        "hex": "#A3333D"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.7,
+    "reviewCount": 71,
+    "tags": [
+      "daily-wear",
+      "cotton",
+      "handblock"
+    ],
+    "fabric": "100% Breathable Mulmul Cotton",
+    "care": "Wash separately in cold water",
+    "completeTheLookIds": [
+      "women-09",
+      "women-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-13",
+    "name": "Cropped Trucker Denim Jacket",
+    "category": "women",
+    "subcategory": "Jackets",
+    "description": "Classic western seam denim jacket tailored in a modern cropped cut with distressed hem accents.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Stonewashed Blue",
+        "hex": "#5A7D9A"
+      },
+      {
+        "name": "Washed White",
+        "hex": "#F8F9FA"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.8,
+    "reviewCount": 110,
+    "tags": [
+      "denim",
+      "outerwear",
+      "layering"
+    ],
+    "fabric": "100% Cotton Denim",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "women-01",
+      "women-10"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-14",
+    "name": "Vegan Leather Moto Biker Jacket",
+    "category": "women",
+    "subcategory": "Jackets",
+    "description": "Supple faux nappa leather biker jacket featuring asymmetric metallic zipper and snap-down lapels.",
+    "price": 3699,
+    "originalPrice": 5299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Classic Black",
+        "hex": "#0D0D0D"
+      },
+      {
+        "name": "Deep Oxblood",
+        "hex": "#4A0014"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 14,
+    "rating": 4.9,
+    "reviewCount": 88,
+    "isFeatured": true,
+    "tags": [
+      "leather",
+      "biker",
+      "edgy"
+    ],
+    "fabric": "Premium PU Vegan Leather with Satin Lining",
+    "care": "Wipe clean with damp cloth",
+    "completeTheLookIds": [
+      "women-03",
+      "women-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-15",
+    "name": "Tailored Double-Breasted Oversized Blazer",
+    "category": "women",
+    "subcategory": "Jackets",
+    "description": "Structured shoulder blazer with horn buttons and peaked lapels for sharp power dressing.",
+    "price": 3999,
+    "originalPrice": 5999,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Almond Beige",
+        "hex": "#EEDC82"
+      },
+      {
+        "name": "Charcoal Pinstripe",
+        "hex": "#363636"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.9,
+    "reviewCount": 72,
+    "tags": [
+      "blazer",
+      "power-suiting",
+      "chic"
+    ],
+    "fabric": "Polyester Viscose Suiting Blend",
+    "care": "Professional dry clean",
+    "completeTheLookIds": [
+      "women-07",
+      "women-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-16",
+    "name": "Pleated Accordion Chiffon Midi Skirt",
+    "category": "women",
+    "subcategory": "Skirts",
+    "description": "High-waisted knife pleated midi skirt with smooth metallic elastic band that twirls effortlessly.",
+    "price": 1899,
+    "originalPrice": 2699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Dusty Rose",
+        "hex": "#DCAE96"
+      },
+      {
+        "name": "Deep Emerald",
+        "hex": "#084C41"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 24,
+    "rating": 4.7,
+    "reviewCount": 53,
+    "tags": [
+      "skirt",
+      "pleated",
+      "feminine"
+    ],
+    "fabric": "100% Chiffon Polyester with Opaque Slip",
+    "care": "Hand wash cold, hang dry",
+    "completeTheLookIds": [
+      "women-06",
+      "women-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-17",
+    "name": "Wide-Leg Pleated Tailored Palazzo Trousers",
+    "category": "women",
+    "subcategory": "Casual Wear",
+    "description": "High-rise front pleated drape trousers designed for elegant movement from desk to dinner.",
+    "price": 2199,
+    "originalPrice": 3199,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      {
+        "name": "Camel Tan",
+        "hex": "#C19A6B"
+      },
+      {
+        "name": "Ecru",
+        "hex": "#F0EAD6"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.8,
+    "reviewCount": 86,
+    "tags": [
+      "tailored",
+      "trousers"
+    ],
+    "fabric": "Soft Viscose Blend Twill",
+    "care": "Machine wash delicate",
+    "completeTheLookIds": [
+      "women-06",
+      "women-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-18",
+    "name": "Organic Cotton Boxy Crop T-Shirt",
+    "category": "women",
+    "subcategory": "T-Shirts",
+    "description": "Relaxed boxy silhouette tee with crew collar and reinforced double-needle hem.",
+    "price": 799,
+    "originalPrice": 1199,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Optic White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Washed Lilac",
+        "hex": "#B39DDB"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 44,
+    "rating": 4.7,
+    "reviewCount": 95,
+    "tags": [
+      "basic",
+      "organic",
+      "crop-top"
+    ],
+    "fabric": "100% GOTS Certified Organic Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "women-09",
+      "women-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-19",
+    "name": "Graphic Parisian Vintage Cotton Tee",
+    "category": "women",
+    "subcategory": "T-Shirts",
+    "description": "Soft stone-washed cotton tee with retro distressed typography on chest.",
+    "price": 899,
+    "originalPrice": 1299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Off-White Cream",
+        "hex": "#FDFBF7"
+      },
+      {
+        "name": "Faded Black",
+        "hex": "#222222"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 38,
+    "rating": 4.6,
+    "reviewCount": 54,
+    "tags": [
+      "graphic",
+      "casual"
+    ],
+    "fabric": "100% Bio-Washed Cotton",
+    "care": "Wash inside out",
+    "completeTheLookIds": [
+      "women-09",
+      "women-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-20",
+    "name": "Cotton Ribbed Halter Neck Tank Top",
+    "category": "women",
+    "subcategory": "Tops",
+    "description": "High neck racerback silhouette in sculpting compact rib fabric.",
+    "price": 699,
+    "originalPrice": 999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1508427953056-b00b8d78ebf5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1508427953056-b00b8d78ebf5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Espresso",
+        "hex": "#3B2F2F"
+      },
+      {
+        "name": "Vanilla",
+        "hex": "#F3E5AB"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 42,
+    "rating": 4.7,
+    "reviewCount": 68,
+    "tags": [
+      "tank",
+      "summer",
+      "layering"
+    ],
+    "fabric": "95% Cotton, 5% Spandex",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "women-09",
+      "women-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-21",
+    "name": "Belted Linen Trench Coat",
+    "category": "women",
+    "subcategory": "Jackets",
+    "description": "Lightweight duster trench featuring storm flaps, tortoiseshell buckles and self-tie sash belt.",
+    "price": 4499,
+    "originalPrice": 6499,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Classic Khaki",
+        "hex": "#C3B091"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 12,
+    "rating": 4.9,
+    "reviewCount": 41,
+    "isFeatured": true,
+    "tags": [
+      "outerwear",
+      "trench",
+      "luxury"
+    ],
+    "fabric": "100% Pure Flax Linen",
+    "care": "Dry clean only",
+    "completeTheLookIds": [
+      "women-01",
+      "women-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-22",
+    "name": "A-Line Button-Front Denim Midi Skirt",
+    "category": "women",
+    "subcategory": "Skirts",
+    "description": "Vintage 70s-inspired midi skirt with tortoiseshell center buttons and front patch pockets.",
+    "price": 2199,
+    "originalPrice": 2999,
+    "discountPercent": 26,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      {
+        "name": "Authentic Blue",
+        "hex": "#3E5C76"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 22,
+    "rating": 4.8,
+    "reviewCount": 60,
+    "tags": [
+      "denim-skirt",
+      "retro"
+    ],
+    "fabric": "100% Cotton Denim",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "women-06",
+      "women-18"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-23",
+    "name": "Chikankari Hand-Embroidered Georgette Kurti",
+    "category": "women",
+    "subcategory": "Kurtis",
+    "description": "Lucknowi artisan threadwork on ethereal georgette fabric with matching slip included.",
+    "price": 2799,
+    "originalPrice": 3999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Powder Blue",
+        "hex": "#B0E0E6"
+      },
+      {
+        "name": "Peach Sorbet",
+        "hex": "#FFDAB9"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 19,
+    "rating": 4.9,
+    "reviewCount": 78,
+    "tags": [
+      "ethnic",
+      "chikankari"
+    ],
+    "fabric": "Poly Georgette with Pure Cotton Inner",
+    "care": "Dry clean recommended",
+    "completeTheLookIds": [
+      "women-09",
+      "women-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-24",
+    "name": "Straight Fit Silk Blend Cigarette Trousers",
+    "category": "women",
+    "subcategory": "Casual Wear",
+    "description": "Clean ankle-skimming cigarette pants tailored with side pockets and elasticated back waistband.",
+    "price": 1899,
+    "originalPrice": 2699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "colors": [
+      {
+        "name": "Jet Black",
+        "hex": "#0A0A0A"
+      },
+      {
+        "name": "Warm Cream",
+        "hex": "#FFFDD0"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.7,
+    "reviewCount": 45,
+    "tags": [
+      "trousers",
+      "ethnic-bottom"
+    ],
+    "fabric": "Cotton Silk Blend",
+    "care": "Dry clean or gentle hand wash",
+    "completeTheLookIds": [
+      "women-11",
+      "women-12"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-25",
+    "name": "Cropped Cashmere-Blend Cardigan",
+    "category": "women",
+    "subcategory": "Casual Wear",
+    "description": "Featherlight soft-brushed cardigan with mother-of-pearl buttons and gentle bell sleeves.",
+    "price": 2499,
+    "originalPrice": 3499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Oat Milk",
+        "hex": "#EFEBD9"
+      },
+      {
+        "name": "Sage Mint",
+        "hex": "#A2B29F"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 21,
+    "rating": 4.8,
+    "reviewCount": 66,
+    "tags": [
+      "knitwear",
+      "cardigan"
+    ],
+    "fabric": "85% Merino Wool, 15% Cashmere",
+    "care": "Hand wash cold, dry flat",
+    "completeTheLookIds": [
+      "women-03",
+      "women-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-26",
+    "name": "Tiered Bohemian Maxi Skirt with Tassels",
+    "category": "women",
+    "subcategory": "Skirts",
+    "description": "Romantic flowing tiered maxi skirt with subtle floral motifs and comfortable elastic drawstring waist.",
+    "price": 1999,
+    "originalPrice": 2899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Rust Autumn",
+        "hex": "#B7410E"
+      },
+      {
+        "name": "Indigo Night",
+        "hex": "#1F2937"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.8,
+    "reviewCount": 52,
+    "tags": [
+      "maxi-skirt",
+      "boho"
+    ],
+    "fabric": "100% Rayon Voile",
+    "care": "Cold water hand wash",
+    "completeTheLookIds": [
+      "women-18",
+      "women-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-27",
+    "name": "Square-Neck Smocked Crop Top",
+    "category": "women",
+    "subcategory": "Tops",
+    "description": "Fully smocked stretchy body with ruffled cap sleeves and delicate lettuce edging.",
+    "price": 999,
+    "originalPrice": 1499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1534126511673-b6899657816a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1534126511673-b6899657816a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Lavender Mist",
+        "hex": "#E6E6FA"
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 36,
+    "rating": 4.6,
+    "reviewCount": 44,
+    "tags": [
+      "crop-top",
+      "smocked"
+    ],
+    "fabric": "100% Cotton Poplin",
+    "care": "Machine wash cool",
+    "completeTheLookIds": [
+      "women-09",
+      "women-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-28",
+    "name": "Veloura Signature Trench Coat",
+    "category": "women",
+    "subcategory": "Jackets",
+    "description": "Waterproof double-breasted long trench with checked satin storm flap lining and horn buckle belt.",
+    "price": 4999,
+    "originalPrice": 7499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Honey Beige",
+        "hex": "#E1C16E"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 16,
+    "rating": 5,
+    "reviewCount": 120,
+    "isBestSeller": true,
+    "tags": [
+      "luxury",
+      "trench",
+      "bestseller"
+    ],
+    "fabric": "Water-Repellent Gabardine Cotton",
+    "care": "Specialist dry clean",
+    "completeTheLookIds": [
+      "women-07",
+      "women-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-29",
+    "name": "Straight-Cut Angrakha Style Kurti",
+    "category": "women",
+    "subcategory": "Kurtis",
+    "description": "Asymmetric crossover Angrakha kurti with side tie-up dori pom-poms and foil printed border.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colors": [
+      {
+        "name": "Teal Green",
+        "hex": "#004D40"
+      },
+      {
+        "name": "Rust Red",
+        "hex": "#B71C1C"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 26,
+    "rating": 4.8,
+    "reviewCount": 55,
+    "tags": [
+      "angrakha",
+      "festive"
+    ],
+    "fabric": "Pure Chanderi Cotton",
+    "care": "Dry clean only",
+    "completeTheLookIds": [
+      "women-17",
+      "women-24"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "women-30",
+    "name": "Cozy Oversized Cable Knit Sweater",
+    "category": "women",
+    "subcategory": "Casual Wear",
+    "description": "Slouchy drop-shoulder chunky sweater with ribbed turtleneck and ultra-soft cloud finish yarn.",
+    "price": 2399,
+    "originalPrice": 3499,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "colors": [
+      {
+        "name": "Alabaster White",
+        "hex": "#F2EBD9"
+      },
+      {
+        "name": "Rosewood",
+        "hex": "#65000B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.9,
+    "reviewCount": 93,
+    "isNewArrival": true,
+    "tags": [
+      "winter",
+      "knitwear"
+    ],
+    "fabric": "Soft Acrylic Wool Blend",
+    "care": "Hand wash, lay flat to dry",
+    "completeTheLookIds": [
+      "women-09",
+      "women-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-01",
+    "name": "Kids Graphic Dino Print Cotton T-Shirt",
+    "category": "kids",
+    "subcategory": "T-Shirts",
+    "description": "Fun glow-in-the-dark dinosaur illustration printed on ultra-soft combed cotton tee with tearaway tag.",
+    "price": 599,
+    "originalPrice": 899,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue",
+        "hex": "#4BA3E3"
+      },
+      {
+        "name": "Sunshine Yellow",
+        "hex": "#F9D423"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 50,
+    "rating": 4.8,
+    "reviewCount": 94,
+    "isBestSeller": true,
+    "tags": [
+      "graphic-tee",
+      "playwear",
+      "cotton"
+    ],
+    "fabric": "100% Bio-Washed Combed Cotton",
+    "care": "Machine wash warm, inside out",
+    "completeTheLookIds": [
+      "kids-09",
+      "kids-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-02",
+    "name": "Kids Rainbow Striped Crewneck Tee",
+    "category": "kids",
+    "subcategory": "T-Shirts",
+    "description": "Vibrant horizontal yarn-dyed stripes that do not bleed. Ribbed stretch collar for easy wear.",
+    "price": 649,
+    "originalPrice": 999,
+    "discountPercent": 35,
+    "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Multi Stripe",
+        "hex": "#FF6B6B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 38,
+    "rating": 4.7,
+    "reviewCount": 65,
+    "tags": [
+      "stripes",
+      "cheerful"
+    ],
+    "fabric": "100% Soft Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-10",
+      "kids-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-03",
+    "name": "Girls Pastel Floral Ruffle Cotton Dress",
+    "category": "kids",
+    "subcategory": "Dresses",
+    "description": "Whimsical meadow floral print dress with flutter sleeves, gathered waist and breathable cotton voile lining.",
+    "price": 1299,
+    "originalPrice": 1899,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "colors": [
+      {
+        "name": "Buttercup Floral",
+        "hex": "#FFF3B0"
+      },
+      {
+        "name": "Blush Pink",
+        "hex": "#FFCCD5"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.9,
+    "reviewCount": 88,
+    "isBestSeller": true,
+    "tags": [
+      "dress",
+      "floral",
+      "summer"
+    ],
+    "fabric": "100% Cotton Poplin",
+    "care": "Gentle machine wash",
+    "completeTheLookIds": [
+      "kids-14",
+      "kids-19"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-04",
+    "name": "Girls Sequin Party Tutu Tiered Dress",
+    "category": "kids",
+    "subcategory": "Party Wear",
+    "description": "Sparkling glitter sequin bodice with multi-layer soft tulle ballet skirt and satin bow sash.",
+    "price": 1899,
+    "originalPrice": 2799,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Princess Rose",
+        "hex": "#E0A899"
+      },
+      {
+        "name": "Frosted Silver",
+        "hex": "#DCDCDC"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 20,
+    "rating": 4.9,
+    "reviewCount": 104,
+    "isFeatured": true,
+    "tags": [
+      "party",
+      "birthday",
+      "tutu"
+    ],
+    "fabric": "Tulle and Satin with 100% Cotton Underskirt",
+    "care": "Hand wash gently, do not wring",
+    "completeTheLookIds": [
+      "kids-14",
+      "kids-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-05",
+    "name": "Boys Formal Waistcoat & Shirt Set",
+    "category": "kids",
+    "subcategory": "Party Wear",
+    "description": "Smart 3-piece set including micro-check jacquard waistcoat, poplin shirt, and pre-tied bow tie.",
+    "price": 1999,
+    "originalPrice": 2999,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Royal Navy",
+        "hex": "#002244"
+      },
+      {
+        "name": "Wine Velvet",
+        "hex": "#58111A"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.8,
+    "reviewCount": 52,
+    "tags": [
+      "party",
+      "wedding",
+      "boys-suit"
+    ],
+    "fabric": "Cotton & Suiting Poly Blend",
+    "care": "Dry clean recommended",
+    "completeTheLookIds": [
+      "kids-11",
+      "kids-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-06",
+    "name": "Girls Embroidered Festive Lehnga Choli",
+    "category": "kids",
+    "subcategory": "Party Wear",
+    "description": "Festive brocade jacquard choli with mirror work embroidery and lightweight flared lehenga skirt.",
+    "price": 2499,
+    "originalPrice": 3699,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "5-6Y",
+      "7-8Y",
+      "9-10Y",
+      "11-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Fuchsia Pink",
+        "hex": "#FF007F"
+      },
+      {
+        "name": "Turquoise Gold",
+        "hex": "#40E0D0"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 16,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "tags": [
+      "festive",
+      "traditional"
+    ],
+    "fabric": "Silk Blend with Cotton Voile Lining",
+    "care": "Dry clean only",
+    "completeTheLookIds": [
+      "kids-04",
+      "kids-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-07",
+    "name": "Kids Stretch Comfort Elastic Waist Jeans",
+    "category": "kids",
+    "subcategory": "Jeans",
+    "description": "Durable stretch denim with internal button-adjustable elastic waist for growth spurts.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y",
+      "11-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Medium Stonewash",
+        "hex": "#4682B4"
+      },
+      {
+        "name": "Dark Indigo",
+        "hex": "#1C3144"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 45,
+    "rating": 4.8,
+    "reviewCount": 112,
+    "isBestSeller": true,
+    "tags": [
+      "denim",
+      "kids-jeans",
+      "stretch"
+    ],
+    "fabric": "98% Cotton, 2% Spandex",
+    "care": "Machine wash warm with like colors",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-08",
+    "name": "Distressed Ripped Knee Denim Joggers",
+    "category": "kids",
+    "subcategory": "Jeans",
+    "description": "Comfortable jogger jeans featuring flexible ribbed waistband with drawcord and ribbed ankle cuffs.",
+    "price": 1299,
+    "originalPrice": 1799,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "5-6Y",
+      "7-8Y",
+      "9-10Y",
+      "11-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Acid Wash Grey",
+        "hex": "#778899"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.6,
+    "reviewCount": 49,
+    "tags": [
+      "streetwear",
+      "joggers"
+    ],
+    "fabric": "Knit-like Indigo Stretch Denim",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-02",
+      "kids-12"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-09",
+    "name": "Kids Fleece Zip-Up Dinosaur Hoodie",
+    "category": "kids",
+    "subcategory": "Hoodies",
+    "description": "Playful soft fleece hoodie featuring fun 3D dino crest ridges along the back and hood.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "colors": [
+      {
+        "name": "Forest Green",
+        "hex": "#228B22"
+      },
+      {
+        "name": "Solar Yellow",
+        "hex": "#FFD700"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 32,
+    "rating": 4.9,
+    "reviewCount": 97,
+    "isBestSeller": true,
+    "tags": [
+      "hoodie",
+      "dino",
+      "cozy"
+    ],
+    "fabric": "80% Cotton, 20% Polyester Brushed Fleece",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-07"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-10",
+    "name": "Unisex Colorblock Fleece Pullover",
+    "category": "kids",
+    "subcategory": "Hoodies",
+    "description": "Sporty tri-color blocked hoodie with soft brushed lining and front pouch pocket.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509967419530-da38b4704bc6?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Teal/Mustard/Grey",
+        "hex": "#1E6B7B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.7,
+    "reviewCount": 63,
+    "tags": [
+      "hoodie",
+      "colorblock"
+    ],
+    "fabric": "75% Cotton, 25% Poly Fleece",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "kids-08",
+      "kids-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-11",
+    "name": "Kids Chino Twill Tailored Bermuda Shorts",
+    "category": "kids",
+    "subcategory": "Shorts",
+    "description": "Classic twill dress shorts with slant pockets and breathable cotton construction.",
+    "price": 899,
+    "originalPrice": 1299,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Khaki Sand",
+        "hex": "#D2B48C"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#000080"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.8,
+    "reviewCount": 76,
+    "tags": [
+      "shorts",
+      "summer",
+      "chinos"
+    ],
+    "fabric": "100% Cotton Twill",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-12",
+    "name": "Breathable Active Mesh Playground Shorts",
+    "category": "kids",
+    "subcategory": "Shorts",
+    "description": "Double-layer quick-dry athletic shorts with contrast piping and soft elastic drawcord waist.",
+    "price": 699,
+    "originalPrice": 999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Sport Black",
+        "hex": "#111111"
+      },
+      {
+        "name": "Royal Cobalt",
+        "hex": "#0047AB"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 48,
+    "rating": 4.7,
+    "reviewCount": 58,
+    "tags": [
+      "sport",
+      "active",
+      "shorts"
+    ],
+    "fabric": "100% Quick-Dry Polyester Mesh",
+    "care": "Machine wash cold, air dry",
+    "completeTheLookIds": [
+      "kids-02",
+      "kids-10"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-13",
+    "name": "Kids Classic Denim Button Jacket",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Timeless mini-trucker denim jacket with pointed collar and chest pockets for stylish layering.",
+    "price": 1799,
+    "originalPrice": 2499,
+    "discountPercent": 28,
+    "image": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Blue",
+        "hex": "#4A6572"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 24,
+    "rating": 4.9,
+    "reviewCount": 82,
+    "isFeatured": true,
+    "tags": [
+      "denim-jacket",
+      "kids-style"
+    ],
+    "fabric": "100% Heavyweight Cotton Denim",
+    "care": "Machine wash cold inside out",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-07"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-14",
+    "name": "Girls Fine Knit Shrug Cardigan",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Cropped single-button scalloped edge bolero cardigan designed to pair over dresses.",
+    "price": 999,
+    "originalPrice": 1499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Pearl White",
+        "hex": "#FDFBF7"
+      },
+      {
+        "name": "Candy Pink",
+        "hex": "#F8BBD0"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 33,
+    "rating": 4.8,
+    "reviewCount": 61,
+    "tags": [
+      "cardigan",
+      "girls"
+    ],
+    "fabric": "100% Breathable Cotton Knit",
+    "care": "Gentle cycle, flat dry",
+    "completeTheLookIds": [
+      "kids-03",
+      "kids-04"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-15",
+    "name": "Kids Organic Cotton French Terry Joggers",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Soft stretch sweatpants with reinforced knee patches for all-day playground durability.",
+    "price": 999,
+    "originalPrice": 1499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Heather Grey",
+        "hex": "#BDBDBD"
+      },
+      {
+        "name": "Dark Navy",
+        "hex": "#1A237E"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 42,
+    "rating": 4.7,
+    "reviewCount": 78,
+    "tags": [
+      "sweatpants",
+      "comfy"
+    ],
+    "fabric": "95% Organic Cotton, 5% Elastane",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-16",
+    "name": "Girls Tiered Cotton Gingham Pinafore Dress",
+    "category": "kids",
+    "subcategory": "Dresses",
+    "description": "Cute buffalo check pinafore dress with cross-back straps and wooden button accents.",
+    "price": 1199,
+    "originalPrice": 1799,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "colors": [
+      {
+        "name": "Cherry Red Check",
+        "hex": "#C62828"
+      },
+      {
+        "name": "French Navy Check",
+        "hex": "#1565C0"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 27,
+    "rating": 4.8,
+    "reviewCount": 54,
+    "tags": [
+      "pinafore",
+      "gingham"
+    ],
+    "fabric": "100% Yarn-Dyed Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-02",
+      "kids-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-17",
+    "name": "Boys Crisp Linen Mandarin Collar Shirt",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Chic roll-tab sleeve summer shirt in airy linen-cotton blend for family events and vacations.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Crisp White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Pastel Mint",
+        "hex": "#98FF98"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 31,
+    "rating": 4.8,
+    "reviewCount": 43,
+    "tags": [
+      "linen",
+      "boys-shirt"
+    ],
+    "fabric": "55% Linen, 45% Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-11",
+      "kids-07"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-18",
+    "name": "Animal Kingdom Safari Print Tee",
+    "category": "kids",
+    "subcategory": "T-Shirts",
+    "description": "Watercolor printed lion, giraffe and elephant illustration on breathable jersey cotton.",
+    "price": 549,
+    "originalPrice": 799,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1527719327859-c6ce80353573?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y"
+    ],
+    "colors": [
+      {
+        "name": "Cream Sand",
+        "hex": "#F7E7CE"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.7,
+    "reviewCount": 39,
+    "tags": [
+      "safari",
+      "cotton-tee"
+    ],
+    "fabric": "100% Bio-Wash Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-11",
+      "kids-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-19",
+    "name": "Girls Denim Bib Dungaree Dress",
+    "category": "kids",
+    "subcategory": "Dresses",
+    "description": "Cute adjustable buckle strap pinafore overall in soft washed indigo denim with front patch pocket.",
+    "price": 1599,
+    "originalPrice": 2299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "colors": [
+      {
+        "name": "Lightwash Denim",
+        "hex": "#87CEFA"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 22,
+    "rating": 4.9,
+    "reviewCount": 71,
+    "tags": [
+      "dungaree",
+      "denim"
+    ],
+    "fabric": "100% Cotton Denim",
+    "care": "Wash inside out",
+    "completeTheLookIds": [
+      "kids-02",
+      "kids-18"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-20",
+    "name": "Boys Stretch Chino Trousers with Belt",
+    "category": "kids",
+    "subcategory": "Party Wear",
+    "description": "Tailored dress trousers with braided faux-leather belt included. Perfect for school concerts and festivities.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Beige Khaki",
+        "hex": "#C3B091"
+      },
+      {
+        "name": "Dark Slate",
+        "hex": "#2F4F4F"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 29,
+    "rating": 4.8,
+    "reviewCount": 56,
+    "tags": [
+      "trousers",
+      "formal"
+    ],
+    "fabric": "98% Cotton, 2% Spandex",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "kids-05",
+      "kids-17"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-21",
+    "name": "Sun Protection UPF 50+ Windbreaker Jacket",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Ultralight water-repellent zip jacket with reflective accents and breathable mesh underarm eyelets.",
+    "price": 1599,
+    "originalPrice": 2299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Neon Lime / Navy",
+        "hex": "#32CD32"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 20,
+    "rating": 4.7,
+    "reviewCount": 35,
+    "tags": [
+      "windbreaker",
+      "active"
+    ],
+    "fabric": "100% Quick-Dry Polyester",
+    "care": "Cold water wash",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-12"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-22",
+    "name": "Girls Shimmer Pleated Party Skirt",
+    "category": "kids",
+    "subcategory": "Party Wear",
+    "description": "Sunburst accordion pleated skirt with iridescent sparkle woven into the fabric and soft elastic waistband.",
+    "price": 1099,
+    "originalPrice": 1599,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Champagne Shimmer",
+        "hex": "#F7E7CE"
+      },
+      {
+        "name": "Rose Metallic",
+        "hex": "#B76E79"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.8,
+    "reviewCount": 42,
+    "tags": [
+      "party",
+      "skirt",
+      "shimmer"
+    ],
+    "fabric": "Polyester with Cotton Lining",
+    "care": "Hand wash cold",
+    "completeTheLookIds": [
+      "kids-14",
+      "kids-04"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-23",
+    "name": "Space Astronaut Glow T-Shirt",
+    "category": "kids",
+    "subcategory": "T-Shirts",
+    "description": "Galaxy rocket and planet graphic tee that illuminates softly after being charged by sunlight.",
+    "price": 649,
+    "originalPrice": 949,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Cosmic Black",
+        "hex": "#0B0C10"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 44,
+    "rating": 4.9,
+    "reviewCount": 80,
+    "tags": [
+      "space",
+      "glow-in-dark"
+    ],
+    "fabric": "100% Combed Ringspun Cotton",
+    "care": "Machine wash cold inside out",
+    "completeTheLookIds": [
+      "kids-07",
+      "kids-10"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-24",
+    "name": "Girls Swiss Dot Smocked Sundress",
+    "category": "kids",
+    "subcategory": "Dresses",
+    "description": "Textured raised Swiss dot cotton dress with stretchy shirred bodice and flutter angel sleeves.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "colors": [
+      {
+        "name": "Sky Aqua",
+        "hex": "#00FFFF"
+      },
+      {
+        "name": "Pure White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.8,
+    "reviewCount": 67,
+    "tags": [
+      "swiss-dot",
+      "sundress"
+    ],
+    "fabric": "100% Dobby Cotton",
+    "care": "Delicate machine wash",
+    "completeTheLookIds": [
+      "kids-14",
+      "kids-16"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-25",
+    "name": "Boys Cargo Shorts with Utility Pockets",
+    "category": "kids",
+    "subcategory": "Shorts",
+    "description": "Rugged cotton canvas play shorts with double cargo flap pockets and adjustable drawstring waist.",
+    "price": 949,
+    "originalPrice": 1399,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517445312882-bc9910d016b7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "colors": [
+      {
+        "name": "Camo Olive",
+        "hex": "#556B2F"
+      },
+      {
+        "name": "Desert Khaki",
+        "hex": "#C2B280"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 36,
+    "rating": 4.7,
+    "reviewCount": 48,
+    "tags": [
+      "cargo",
+      "playwear"
+    ],
+    "fabric": "100% Heavy Duty Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "kids-01",
+      "kids-23"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-26",
+    "name": "Kids Sherpa Lined Corduroy Winter Jacket",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Cozy wide-wale corduroy jacket with ultra-warm faux sherpa fleece lining and snap buttons.",
+    "price": 2199,
+    "originalPrice": 3299,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Caramel Brown",
+        "hex": "#AF6E4D"
+      },
+      {
+        "name": "Forest Green",
+        "hex": "#1B4D3E"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.9,
+    "reviewCount": 59,
+    "isFeatured": true,
+    "tags": [
+      "winter",
+      "corduroy",
+      "sherpa"
+    ],
+    "fabric": "100% Cotton Corduroy with Sherpa Lining",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "kids-07",
+      "kids-10"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-27",
+    "name": "Kids Everyday 2-Piece Loungewear Set",
+    "category": "kids",
+    "subcategory": "Casual Wear",
+    "description": "Matching modal-cotton crewneck long sleeve tee and pull-on lounge jogger pants.",
+    "price": 1299,
+    "originalPrice": 1899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "colors": [
+      {
+        "name": "Oatmeal Heather",
+        "hex": "#D8CBB9"
+      },
+      {
+        "name": "Slate Blue",
+        "hex": "#6C7A89"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 35,
+    "rating": 4.8,
+    "reviewCount": 91,
+    "tags": [
+      "loungewear",
+      "pajamas"
+    ],
+    "fabric": "95% Modal Cotton, 5% Spandex",
+    "care": "Machine wash cool, tumble dry low",
+    "completeTheLookIds": [
+      "kids-09",
+      "kids-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-28",
+    "name": "Boys Traditional Silk Kurta Pyjama Set",
+    "category": "kids",
+    "subcategory": "Party Wear",
+    "description": "Royal mandarin collar kurta with contrast button placket paired with comfortable white pyjama pants.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "Emerald Green",
+        "hex": "#006400"
+      },
+      {
+        "name": "Golden Ochre",
+        "hex": "#DAA520"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 24,
+    "rating": 4.9,
+    "reviewCount": 75,
+    "tags": [
+      "festive",
+      "kurta",
+      "ethnic"
+    ],
+    "fabric": "Art Silk with Pure Cotton Lining",
+    "care": "Dry clean recommended",
+    "completeTheLookIds": [
+      "kids-05",
+      "kids-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-29",
+    "name": "Tie-Dye Swirl French Terry Sweatshirt",
+    "category": "kids",
+    "subcategory": "Hoodies",
+    "description": "Custom pastel rainbow spiral tie-dye pattern on relaxed crewneck sweater with ribbed cuffs.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-12Y"
+    ],
+    "colors": [
+      {
+        "name": "Pastel Sorbet",
+        "hex": "#FFB7B2"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 26,
+    "rating": 4.7,
+    "reviewCount": 46,
+    "tags": [
+      "tie-dye",
+      "trendy"
+    ],
+    "fabric": "100% French Terry Cotton",
+    "care": "Wash separately in cold water",
+    "completeTheLookIds": [
+      "kids-07",
+      "kids-11"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "kids-30",
+    "name": "Kids Organic Cotton Basic Crew T-Shirt (3-Pack)",
+    "category": "kids",
+    "subcategory": "T-Shirts",
+    "description": "Value pack of three essential solid color everyday tees with smooth flatlock seams that prevent chafing.",
+    "price": 1199,
+    "originalPrice": 1799,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "colors": [
+      {
+        "name": "White / Heather / Navy",
+        "hex": "#0B2545"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 60,
+    "rating": 4.8,
+    "reviewCount": 145,
+    "isBestSeller": true,
+    "tags": [
+      "multipack",
+      "basics",
+      "bestseller"
+    ],
+    "fabric": "100% Pure Combed Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "kids-07",
+      "kids-11"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-01",
+    "name": "Organic Cotton Ribbed Snap-Front Romper",
+    "category": "infants",
+    "subcategory": "Rompers",
+    "description": "Ultra-soft GOTS certified organic ribbed cotton romper with scratch-free foldover cuffs and two-way nickel-free snaps.",
+    "price": 899,
+    "originalPrice": 1299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-9M",
+      "9-12M"
+    ],
+    "colors": [
+      {
+        "name": "Sage Green",
+        "hex": "#87A96B"
+      },
+      {
+        "name": "Oatmeal Beige",
+        "hex": "#D8CBB9"
+      },
+      {
+        "name": "Clay Peach",
+        "hex": "#E07A5F"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.9,
+    "reviewCount": 135,
+    "isBestSeller": true,
+    "tags": [
+      "organic",
+      "romper",
+      "bestseller"
+    ],
+    "fabric": "100% Organic GOTS Cotton Rib",
+    "care": "Machine wash warm, tumble dry low",
+    "completeTheLookIds": [
+      "infant-08",
+      "infant-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-02",
+    "name": "Short-Sleeve Safari Animal Printed Romper",
+    "category": "infants",
+    "subcategory": "Rompers",
+    "description": "Breathable lightweight slub romper featuring water-based jungle animal prints and bottom diaper snaps.",
+    "price": 749,
+    "originalPrice": 1099,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Safari Cream",
+        "hex": "#F9F6F0"
+      },
+      {
+        "name": "Soft Mustard",
+        "hex": "#E5A93B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 35,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "tags": [
+      "safari",
+      "summer",
+      "romper"
+    ],
+    "fabric": "100% Combed Slub Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "infant-11",
+      "infant-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-03",
+    "name": "Essential Long-Sleeve Kimono Bodysuits (3-Pack)",
+    "category": "infants",
+    "subcategory": "Bodysuits",
+    "description": "Side-snap wrap kimono bodysuits designed so you never have to pull clothing over baby’s sensitive head.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "Newborn",
+      "0-3M",
+      "3-6M",
+      "6-9M"
+    ],
+    "colors": [
+      {
+        "name": "White / Heather / Sky",
+        "hex": "#E0F2FE"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 50,
+    "rating": 5,
+    "reviewCount": 178,
+    "isBestSeller": true,
+    "tags": [
+      "kimono",
+      "bodysuit",
+      "multipack"
+    ],
+    "fabric": "100% Breathable Ringspun Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-07",
+      "infant-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-04",
+    "name": "Short-Sleeve Pastel Ribbed Bodysuits (5-Pack)",
+    "category": "infants",
+    "subcategory": "Bodysuits",
+    "description": "Five pack of everyday envelope-neckline bodysuits crafted from gentle stretchy modal cotton blend.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1584824486509-112e4181ff6b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Pastel Rainbow Mix",
+        "hex": "#FED7AA"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 65,
+    "rating": 4.9,
+    "reviewCount": 210,
+    "tags": [
+      "essential",
+      "basics",
+      "value-pack"
+    ],
+    "fabric": "95% Cotton, 5% Elastane",
+    "care": "Machine wash warm, tumble dry",
+    "completeTheLookIds": [
+      "infant-08",
+      "infant-10"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-05",
+    "name": "Floral Embroidered Baby Dress with Bloomers",
+    "category": "infants",
+    "subcategory": "Baby Dresses",
+    "description": "Sweet Peter Pan collar baby frock with delicate hand-smocked floral chest and matching diaper cover bloomers.",
+    "price": 1299,
+    "originalPrice": 1899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1596870230751-ebdfce98ec42?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596870230751-ebdfce98ec42?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Powder Rose",
+        "hex": "#FBCFE8"
+      },
+      {
+        "name": "Vintage Cream",
+        "hex": "#FFFBEB"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.9,
+    "reviewCount": 84,
+    "isFeatured": true,
+    "tags": [
+      "dress",
+      "bloomers",
+      "baby-girl"
+    ],
+    "fabric": "100% Fine Lawn Cotton",
+    "care": "Gentle hand wash",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-06",
+    "name": "Swiss Dot Tiered Tulle Baby Party Dress",
+    "category": "infants",
+    "subcategory": "Baby Dresses",
+    "description": "Delicate tiered tulle baby dress with cotton lining, back snap placket, and velvet ribbon waistband.",
+    "price": 1599,
+    "originalPrice": 2299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1518831959646-742c3a14ebf7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Ivory Lace",
+        "hex": "#FDFBF7"
+      },
+      {
+        "name": "Blush Tutu",
+        "hex": "#FFDFD3"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 20,
+    "rating": 4.8,
+    "reviewCount": 56,
+    "tags": [
+      "party",
+      "birthday",
+      "christening"
+    ],
+    "fabric": "Soft Nylon Tulle with 100% Cotton Lining",
+    "care": "Hand wash gently in cold water",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-07",
+    "name": "Waffle Knit Long-Sleeve Top & Pants Set",
+    "category": "infants",
+    "subcategory": "Baby Sets",
+    "description": "Cozy two-piece honeycomb thermal knit set with wooden chest buttons and comfortable elasticated harem bottoms.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Dusty Blue",
+        "hex": "#7BA4B5"
+      },
+      {
+        "name": "Earth Clay",
+        "hex": "#C27D5B"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 34,
+    "rating": 4.8,
+    "reviewCount": 99,
+    "isBestSeller": true,
+    "tags": [
+      "set",
+      "waffle",
+      "unisex"
+    ],
+    "fabric": "100% Thermal Cotton Waffle",
+    "care": "Machine wash cool, flat dry",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-08",
+    "name": "Baby Linen Dungarees & Cotton Tee Set",
+    "category": "infants",
+    "subcategory": "Baby Sets",
+    "description": "Charming cross-back dungaree overalls with coconut shell buttons paired with striped cotton undershirt.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Olive Chambray",
+        "hex": "#556B2F"
+      },
+      {
+        "name": "Natural Oatmeal",
+        "hex": "#EAE6DF"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 26,
+    "rating": 4.9,
+    "reviewCount": 77,
+    "isFeatured": true,
+    "tags": [
+      "dungarees",
+      "linen-set",
+      "photoshoot"
+    ],
+    "fabric": "Dungaree: 55% Linen 45% Cotton; Tee: 100% Cotton",
+    "care": "Machine wash cold delicate",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-09",
+    "name": "Soft Ribbed Pocket Baby T-Shirt",
+    "category": "infants",
+    "subcategory": "Infant T-Shirts",
+    "description": "Stretchy crewneck tee with shoulder snap buttons for easy dressing and contrast chest pocket.",
+    "price": 499,
+    "originalPrice": 749,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-6M",
+      "6-12M",
+      "12-18M",
+      "18-24M"
+    ],
+    "colors": [
+      {
+        "name": "Butter Cream",
+        "hex": "#FFFDD0"
+      },
+      {
+        "name": "Sky Grey",
+        "hex": "#CFD8DC"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 45,
+    "rating": 4.7,
+    "reviewCount": 42,
+    "tags": [
+      "basic",
+      "tee",
+      "everyday"
+    ],
+    "fabric": "95% Organic Cotton, 5% Spandex",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-11",
+      "infant-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-10",
+    "name": "Nautical Striped Boatneck Infant Tee",
+    "category": "infants",
+    "subcategory": "Infant T-Shirts",
+    "description": "Yarn-dyed horizontal breton stripe tee with stretch shoulder envelope neckline.",
+    "price": 549,
+    "originalPrice": 799,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Navy & White",
+        "hex": "#0B2545"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 38,
+    "rating": 4.7,
+    "reviewCount": 38,
+    "tags": [
+      "stripes",
+      "nautical"
+    ],
+    "fabric": "100% Combed Ringspun Cotton",
+    "care": "Machine wash cold with like colors",
+    "completeTheLookIds": [
+      "infant-12",
+      "infant-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-11",
+    "name": "Pull-On Cotton Muslin Bloomers Shorts (2-Pack)",
+    "category": "infants",
+    "subcategory": "Infant Shorts",
+    "description": "Light-as-air 4-layer crinkled cotton muslin shorts with non-pinching gathered elastic leg openings.",
+    "price": 799,
+    "originalPrice": 1199,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Terracotta & Moss",
+        "hex": "#CC5A36"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 42,
+    "rating": 4.9,
+    "reviewCount": 88,
+    "isBestSeller": true,
+    "tags": [
+      "muslin",
+      "shorts",
+      "breathable"
+    ],
+    "fabric": "100% Organic Cotton Muslin",
+    "care": "Machine wash cold, tumble dry low",
+    "completeTheLookIds": [
+      "infant-02",
+      "infant-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-12",
+    "name": "Chambray Drawstring Diaper Cover Shorts",
+    "category": "infants",
+    "subcategory": "Infant Shorts",
+    "description": "Soft-washed cotton chambray shorts with mock fly, front pockets and gentle ribbed waistband.",
+    "price": 699,
+    "originalPrice": 999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Sky Chambray",
+        "hex": "#779ECB"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.8,
+    "reviewCount": 46,
+    "tags": [
+      "chambray",
+      "casual-shorts"
+    ],
+    "fabric": "100% Breathable Cotton Chambray",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-10",
+      "infant-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-13",
+    "name": "Baby Bear Ears Sherpa Fleece Zip Jacket",
+    "category": "infants",
+    "subcategory": "Jackets",
+    "description": "Irresistibly adorable plush sherpa hooded jacket with sweet 3D teddy bear ears and safety zipper guard.",
+    "price": 1699,
+    "originalPrice": 2499,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Teddy Brown",
+        "hex": "#967969"
+      },
+      {
+        "name": "Cloud Cream",
+        "hex": "#FFF8DC"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 5,
+    "reviewCount": 142,
+    "isBestSeller": true,
+    "tags": [
+      "bear-ears",
+      "winter",
+      "jacket"
+    ],
+    "fabric": "100% Micro-Sherpa with Pure Cotton Jersey Lining",
+    "care": "Machine wash cold, gentle cycle",
+    "completeTheLookIds": [
+      "infant-01",
+      "infant-16"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-14",
+    "name": "Hand-Knitted Chunky Cotton Baby Cardigan",
+    "category": "infants",
+    "subcategory": "Jackets",
+    "description": "Heritage garter stitch button cardigan knit with 100% hypoallergenic natural cotton yarn.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Soft Biscuit",
+        "hex": "#D2B48C"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#D8A47F"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 22,
+    "rating": 4.9,
+    "reviewCount": 89,
+    "isFeatured": true,
+    "tags": [
+      "hand-knit",
+      "cardigan",
+      "gift"
+    ],
+    "fabric": "100% Combed Cotton Yarn",
+    "care": "Hand wash cold, dry flat",
+    "completeTheLookIds": [
+      "infant-01",
+      "infant-05"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-15",
+    "name": "Pure Bamboo Zipper Footie Sleepsuit",
+    "category": "infants",
+    "subcategory": "Sleepwear",
+    "description": "Thermoregulating ultra-silky bamboo viscose sleepsuit with 2-way safety zipper and anti-slip sole grips.",
+    "price": 1299,
+    "originalPrice": 1899,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-9M",
+      "9-12M"
+    ],
+    "colors": [
+      {
+        "name": "Constellation Stars",
+        "hex": "#314E6E"
+      },
+      {
+        "name": "Moonbeam Grey",
+        "hex": "#D1D5DB"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 44,
+    "rating": 5,
+    "reviewCount": 165,
+    "isBestSeller": true,
+    "tags": [
+      "sleepsuit",
+      "bamboo",
+      "softest"
+    ],
+    "fabric": "95% Bamboo Viscose, 5% Spandex",
+    "care": "Wash cold inside out, line dry",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-16"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-16",
+    "name": "Organic Cotton Footed Sleep & Play (2-Pack)",
+    "category": "infants",
+    "subcategory": "Sleepwear",
+    "description": "Set of two soft printed sleepers with snap tab chin guard, non-skid foot pads, and breathable seams.",
+    "price": 1499,
+    "originalPrice": 2199,
+    "discountPercent": 31,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "Newborn",
+      "0-3M",
+      "3-6M",
+      "6-9M"
+    ],
+    "colors": [
+      {
+        "name": "Cloud & Little Bear",
+        "hex": "#F3F4F6"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.8,
+    "reviewCount": 122,
+    "tags": [
+      "sleepsuit",
+      "multipack"
+    ],
+    "fabric": "100% GOTS Certified Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-13",
+      "infant-14"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-17",
+    "name": "Cotton Muslin Sleeveless Bubble Romper",
+    "category": "infants",
+    "subcategory": "Rompers",
+    "description": "Airy gathered bubble silhouette with wooden button straps and elastic leg openings for hot summer days.",
+    "price": 849,
+    "originalPrice": 1199,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Warm Terracotta",
+        "hex": "#D97706"
+      },
+      {
+        "name": "Olive Green",
+        "hex": "#65A30D"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 32,
+    "rating": 4.8,
+    "reviewCount": 64,
+    "tags": [
+      "bubble-romper",
+      "muslin"
+    ],
+    "fabric": "100% Organic Pre-Washed Muslin",
+    "care": "Gentle wash cold",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-18",
+    "name": "Thermal Quilted Cozy Baby Pram Suit",
+    "category": "infants",
+    "subcategory": "Jackets",
+    "description": "Padded all-in-one snowsuit with foldover mitten cuffs and double front zip for stress-free outdoor trips.",
+    "price": 2499,
+    "originalPrice": 3599,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Midnight Navy",
+        "hex": "#1E293B"
+      },
+      {
+        "name": "Muted Rose",
+        "hex": "#FDA4AF"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 18,
+    "rating": 4.9,
+    "reviewCount": 51,
+    "isFeatured": true,
+    "tags": [
+      "winter",
+      "snowsuit",
+      "pram-suit"
+    ],
+    "fabric": "Waterproof Poly Shell with Micro-Fleece Lining",
+    "care": "Machine wash cold gentle",
+    "completeTheLookIds": [
+      "infant-15",
+      "infant-16"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-19",
+    "name": "Baby Festive Embroidered Kurta & Dhoti Set",
+    "category": "infants",
+    "subcategory": "Baby Sets",
+    "description": "Traditional silk blend soft kurta with mirror foil border and elasticated pre-stitched cotton dhoti.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Turmeric Yellow",
+        "hex": "#F59E0B"
+      },
+      {
+        "name": "Royal Peacock",
+        "hex": "#0284C7"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 4.9,
+    "reviewCount": 73,
+    "tags": [
+      "ethnic",
+      "dhoti",
+      "festive"
+    ],
+    "fabric": "Chanderi Silk Kurta with Pure Cotton Dhoti",
+    "care": "Dry clean or gentle hand wash",
+    "completeTheLookIds": [
+      "infant-20",
+      "infant-22"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-20",
+    "name": "Baby Hand-Knitted Booties & Beanie Hat Set",
+    "category": "infants",
+    "subcategory": "Baby Sets",
+    "description": "Matching soft-tie stay-on ribbed booties and ribbed cuff beanie crafted from irritation-free organic yarn.",
+    "price": 699,
+    "originalPrice": 999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Neutral Oat",
+        "hex": "#E7E5E4"
+      },
+      {
+        "name": "Blush Mist",
+        "hex": "#FBCFE8"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 40,
+    "rating": 4.8,
+    "reviewCount": 65,
+    "tags": [
+      "booties",
+      "beanie",
+      "accessories"
+    ],
+    "fabric": "100% Organic Combed Cotton",
+    "care": "Hand wash flat dry",
+    "completeTheLookIds": [
+      "infant-01",
+      "infant-05"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-21",
+    "name": "Crinkle Double Gauze Button-Front Romper",
+    "category": "infants",
+    "subcategory": "Rompers",
+    "description": "Double gauze cotton with vintage wooden buttons and relaxed leg cuffs for gentle summer breezes.",
+    "price": 899,
+    "originalPrice": 1299,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Mineral Blue",
+        "hex": "#64748B"
+      },
+      {
+        "name": "Warm Cream",
+        "hex": "#FEF3C7"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.7,
+    "reviewCount": 44,
+    "tags": [
+      "gauze",
+      "summer-romper"
+    ],
+    "fabric": "100% Cotton Double Gauze",
+    "care": "Wash cold inside out",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-22",
+    "name": "Baby Festive Gota Patti Angrakha Frock",
+    "category": "infants",
+    "subcategory": "Baby Dresses",
+    "description": "Ethnic wrap frock with golden lace border, soft side tassel tie-ups and breathable cotton inner lining.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1596870230751-ebdfce98ec42?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1596870230751-ebdfce98ec42?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Rani Pink",
+        "hex": "#BE185D"
+      },
+      {
+        "name": "Festive Red",
+        "hex": "#DC2626"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 24,
+    "rating": 4.9,
+    "reviewCount": 58,
+    "tags": [
+      "ethnic-dress",
+      "festive"
+    ],
+    "fabric": "Chanderi Cotton with Mulmul Lining",
+    "care": "Dry clean recommended",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-23",
+    "name": "Organic Cotton Long-Sleeve Bodysuit (3-Pack)",
+    "category": "infants",
+    "subcategory": "Bodysuits",
+    "description": "Essential winter layering bodysuits with expandable lap-shoulder design and reinforced gusset snaps.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Sage / Stone / White",
+        "hex": "#65A30D"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 48,
+    "rating": 4.8,
+    "reviewCount": 96,
+    "tags": [
+      "bodysuits",
+      "organic"
+    ],
+    "fabric": "100% Certified Organic Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-07",
+      "infant-13"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-24",
+    "name": "Gingham Check Ruffled Baby Sunsuit",
+    "category": "infants",
+    "subcategory": "Rompers",
+    "description": "Vintage cross-back summer sunsuit with ruffled wing sleeves, elasticated thighs and bottom diaper snaps.",
+    "price": 799,
+    "originalPrice": 1199,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Lemon Gingham",
+        "hex": "#FDE047"
+      },
+      {
+        "name": "Sky Gingham",
+        "hex": "#38BDF8"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 30,
+    "rating": 4.8,
+    "reviewCount": 52,
+    "tags": [
+      "sunsuit",
+      "gingham"
+    ],
+    "fabric": "100% Poplin Cotton",
+    "care": "Machine wash cold",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-25",
+    "name": "Zip-Up Quilted Hooded Baby Gilet Vest",
+    "category": "infants",
+    "subcategory": "Jackets",
+    "description": "Sleeveless lightweight thermal puffer vest with chin guard zipper for breezy park strolls.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "3-6M",
+      "6-12M",
+      "12-18M"
+    ],
+    "colors": [
+      {
+        "name": "Mustard Yellow",
+        "hex": "#D97706"
+      },
+      {
+        "name": "Steel Grey",
+        "hex": "#475569"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 26,
+    "rating": 4.7,
+    "reviewCount": 39,
+    "tags": [
+      "vest",
+      "gilet",
+      "layering"
+    ],
+    "fabric": "Water-Resistant Nylon with Cotton Jersey Lining",
+    "care": "Gentle wash cold",
+    "completeTheLookIds": [
+      "infant-03",
+      "infant-07"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-26",
+    "name": "Organic Cotton Striped Sleep Sack Swaddle",
+    "category": "infants",
+    "subcategory": "Sleepwear",
+    "description": "TOG 1.0 wearable sleeping bag with 2-way bottom zipper for midnight diaper changes without waking baby.",
+    "price": 1399,
+    "originalPrice": 1999,
+    "discountPercent": 30,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-6M",
+      "6-18M"
+    ],
+    "colors": [
+      {
+        "name": "Grey Stripe",
+        "hex": "#94A3B8"
+      },
+      {
+        "name": "Sage Stripe",
+        "hex": "#84CC16"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 36,
+    "rating": 4.9,
+    "reviewCount": 110,
+    "isBestSeller": true,
+    "tags": [
+      "swaddle",
+      "sleep-sack"
+    ],
+    "fabric": "100% Breathable Organic Cotton",
+    "care": "Machine wash warm, tumble dry low",
+    "completeTheLookIds": [
+      "infant-03",
+      "infant-15"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-27",
+    "name": "Printed Cotton Pyjama Sleep Set (2-Pack)",
+    "category": "infants",
+    "subcategory": "Sleepwear",
+    "description": "Matching soft ribbed crew tops and elasticated footless pants with adorable moon and cloud prints.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "discountPercent": 29,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "6-12M",
+      "12-18M",
+      "18-24M"
+    ],
+    "colors": [
+      {
+        "name": "Starlight Dream",
+        "hex": "#CBD5E1"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 32,
+    "rating": 4.8,
+    "reviewCount": 68,
+    "tags": [
+      "pyjama",
+      "sleepwear"
+    ],
+    "fabric": "100% Soft Interlock Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-28",
+    "name": "Knit Cotton Romper with Wooden Buttons",
+    "category": "infants",
+    "subcategory": "Rompers",
+    "description": "Chic fine-knit shortall romper with shoulder coconut buttons and soft ribbed cuffs.",
+    "price": 999,
+    "originalPrice": 1499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Oatmeal",
+        "hex": "#D6D3D1"
+      },
+      {
+        "name": "Dusty Clay",
+        "hex": "#EA580C"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 28,
+    "rating": 4.8,
+    "reviewCount": 47,
+    "tags": [
+      "knit-romper",
+      "neutral"
+    ],
+    "fabric": "100% Natural Cotton Knit",
+    "care": "Hand wash cold",
+    "completeTheLookIds": [
+      "infant-14",
+      "infant-20"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-29",
+    "name": "Pull-On Cotton Jersey Baby Pants (3-Pack)",
+    "category": "infants",
+    "subcategory": "Infant Shorts",
+    "description": "Set of three ultra-gentle ribbed waistband baby pants with turn-up cuffs and plenty of diaper room.",
+    "price": 999,
+    "originalPrice": 1499,
+    "discountPercent": 33,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "colors": [
+      {
+        "name": "Navy / Grey / Olive",
+        "hex": "#334155"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 45,
+    "rating": 4.9,
+    "reviewCount": 94,
+    "tags": [
+      "multipack",
+      "baby-pants"
+    ],
+    "fabric": "100% Combed Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-03",
+      "infant-09"
+    ],
+    "is3DSupported": true
+  },
+  {
+    "id": "infant-30",
+    "name": "Veloura Signature Newborn Welcome Gift Set",
+    "category": "infants",
+    "subcategory": "Baby Sets",
+    "description": "Complete 6-piece luxury newborn hamper: snap romper, kimono bodysuit, footed pants, knotted beanie, mittens, and bib.",
+    "price": 2499,
+    "originalPrice": 3699,
+    "discountPercent": 32,
+    "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "sizes": [
+      "Newborn",
+      "0-3M",
+      "3-6M"
+    ],
+    "colors": [
+      {
+        "name": "Gift Box Natural Cream",
+        "hex": "#FAF5EF"
+      },
+      {
+        "name": "Gift Box Sage",
+        "hex": "#ECFDF5"
+      }
+    ],
+    "inStock": true,
+    "stockQuantity": 25,
+    "rating": 5,
+    "reviewCount": 180,
+    "isBestSeller": true,
+    "tags": [
+      "gift-set",
+      "newborn",
+      "luxury"
+    ],
+    "fabric": "100% GOTS Certified Organic Cotton",
+    "care": "Machine wash warm",
+    "completeTheLookIds": [
+      "infant-13",
+      "infant-15"
+    ],
+    "is3DSupported": true
+  }
+]
